@@ -13,3 +13,4 @@ end
 
 def move(board, player, character = "X")
   
+end
